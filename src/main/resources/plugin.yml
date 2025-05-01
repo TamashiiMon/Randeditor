@@ -4,7 +4,7 @@ main: de.terrocraft.randcustomizer.RandCustomizer
 api-version: '1.20'
 description: This is a plugin for CityBuild servers with PlotSquared, allowing players to customize their roads around their plots.
 authors:
-  - Terrocraft
+  - TamashiiMon
   - Schemil053
   - LevinGamer8
 depend:
